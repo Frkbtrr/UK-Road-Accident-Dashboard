@@ -15,4 +15,5 @@ The dataset covers a wide range of aspects related to road accidents, including:
 - Accident by Road Surface: Distribution of accidents based on road surface conditions.
 - Accident by Location: Geographical breakdown of accidents according to their locations.
 
-Note: This study was done by looking at other similar work to improve my signage knowledge.
+Note: Please find the Tableau project link in 'UK_Road_Accident_Dashboard.png'
+Note 2: This study was done by looking at other similar work to improve my signage knowledge.
